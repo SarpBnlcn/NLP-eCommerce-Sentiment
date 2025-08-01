@@ -90,7 +90,6 @@ pandas, seaborn, matplot
 wordcloud, scikit-learn
 
 
-<img width="600" height="400" alt="duygu_dagilimi" src="https://github.com/user-attachments/assets/17a0c49b-2ec6-4a4d-8c3d-2df750d38d73" />
 <img width="600" height="400" alt="duygu_dagilimi" src="https://github.com/user-attachments/assets/e6f997e7-e1a2-47ae-af01-27219e201fe3" />
 <img width="600" height="400" alt="ortalama_yorum_uzunlugu" src="https://github.com/user-attachments/assets/5448f47d-c019-4ec2-8755-fbd12e05f879" />
 <img width="790" height="425" alt="wordcloud_olumlu" src="https://github.com/user-attachments/assets/c0c2e725-e546-46ea-b8b9-b6218c815eef" />
