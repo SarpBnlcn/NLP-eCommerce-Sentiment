@@ -1,4 +1,4 @@
-# E-Ticaret Ürün Yorumlarından Duygu Analizi ve Sınıflandırma
+<img width="600" height="400" alt="ortalama_yorum_uzunlugu" src="https://github.com/user-attachments/assets/37d16401-55ff-4d24-aa42-a1db97bb9586" /># E-Ticaret Ürün Yorumlarından Duygu Analizi ve Sınıflandırma
 
 🌟 Proje Amacı
 
@@ -84,8 +84,8 @@ Nötr yorumların daha net tanımlanabilmesi için ek özellik üretimi ve verin
 🔍 Görsellerden Örnekler
 
 Yorumların duygu dağılımı
-
-Olumlu/Olumsuz WordCloud
+<img width="790" height="425" alt="wordcloud_olumlu" src="https://github.com/user-attachments/assets/e6dbf6eb-45a3-44a8-b644-32ed6f2a9494" /><img width="600" height="400" alt="yorum_uzunlugu_hist" src="https://github.com/user-attachments/assets/527aba90-24b3-42b7-9bb5-2c7ce0c0943f" />
+<img width="790" height="425" alt="wordcloud_olumsuz" src="https://github.com/user-attachments/assets/069b1d88-b768-408f-9d1e-b9cb77e211dd" />
 
 Yorum uzunluğu histogramı
 
@@ -93,6 +93,8 @@ Confusion Matrix
 
 🔗 Kullanılan Kütüphaneler
 
-pandas, seaborn, matplotlib
+pandas, seaborn, matplot<img width="600" height="400" alt="duygu_dagilimi" src="https://github.com/user-attachments/assets/3e3986f7-2249-4c67-9a09-912ca4b333ff" />
+<img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/a82e19ac-5cea-4fa2-8fb9-9b055dac714c" />
+lib
 
 wordcloud, scikit-learn
