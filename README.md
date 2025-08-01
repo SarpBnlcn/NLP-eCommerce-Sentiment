@@ -1,4 +1,4 @@
-<img width="600" height="400" alt="ortalama_yorum_uzunlugu" src="https://github.com/user-attachments/assets/37d16401-55ff-4d24-aa42-a1db97bb9586" /># E-Ticaret Ürün Yorumlarından Duygu Analizi ve Sınıflandırma
+# E-Ticaret Ürün Yorumlarından Duygu Analizi ve Sınıflandırma
 
 🌟 Proje Amacı
 
@@ -81,20 +81,18 @@ Basit bir TF-IDF + Logistic Regression modeliyle %89 başarıyla duygu tahmini y
 
 Nötr yorumların daha net tanımlanabilmesi için ek özellik üretimi ve verinin genişletilmesi faydalı olabilir.
 
-🔍 Görsellerden Örnekler
-
-Yorumların duygu dağılımı
-<img width="790" height="425" alt="wordcloud_olumlu" src="https://github.com/user-attachments/assets/e6dbf6eb-45a3-44a8-b644-32ed6f2a9494" /><img width="600" height="400" alt="yorum_uzunlugu_hist" src="https://github.com/user-attachments/assets/527aba90-24b3-42b7-9bb5-2c7ce0c0943f" />
-<img width="790" height="425" alt="wordcloud_olumsuz" src="https://github.com/user-attachments/assets/069b1d88-b768-408f-9d1e-b9cb77e211dd" />
-
-Yorum uzunluğu histogramı
-
 Confusion Matrix
 
 🔗 Kullanılan Kütüphaneler
 
-pandas, seaborn, matplot<img width="600" height="400" alt="duygu_dagilimi" src="https://github.com/user-attachments/assets/3e3986f7-2249-4c67-9a09-912ca4b333ff" />
-<img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/a82e19ac-5cea-4fa2-8fb9-9b055dac714c" />
-lib
+pandas, seaborn, matplot
 
 wordcloud, scikit-learn
+
+
+<img width="600" height="400" alt="duygu_dagilimi" src="https://github.com/user-attachments/assets/17a0c49b-2ec6-4a4d-8c3d-2df750d38d73" />
+<img width="600" height="400" alt="duygu_dagilimi" src="https://github.com/user-attachments/assets/e6f997e7-e1a2-47ae-af01-27219e201fe3" />
+<img width="600" height="400" alt="ortalama_yorum_uzunlugu" src="https://github.com/user-attachments/assets/5448f47d-c019-4ec2-8755-fbd12e05f879" />
+<img width="790" height="425" alt="wordcloud_olumlu" src="https://github.com/user-attachments/assets/c0c2e725-e546-46ea-b8b9-b6218c815eef" />
+<img width="790" height="425" alt="wordcloud_olumsuz" src="https://github.com/user-attachments/assets/9dbcfe0a-e897-487e-931e-868f1f06a094" />
+<img width="600" height="400" alt="yorum_uzunlugu_hist" src="https://github.com/user-attachments/assets/ed7de9c7-5d18-445d-940b-4e08948fdc93" />
