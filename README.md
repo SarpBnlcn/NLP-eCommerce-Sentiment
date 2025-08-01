@@ -85,7 +85,7 @@ Confusion Matrix
 
 🔗 Kullanılan Kütüphaneler
 
-pandas, seaborn, matplot
+pandas, matplotlib, seaborn
 
 wordcloud, scikit-learn
 
